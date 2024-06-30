@@ -1,8 +1,8 @@
-
-
 import customtkinter as ctk
 from tkinter import *
 from PIL import Image
+from tkinter import messagebox
+
 
 app = ctk.CTk()
 app.geometry("900x500")
@@ -23,10 +23,25 @@ ctk.CTkLabel(image_frame, text="Acesse agora a \nnossa plataforma!",
              text_color="#FCD112").place(x=65, y=50)
 
 
+
 def login_fun():
+    password = password_entry.get().strip()
+    user = username_entry.get().strip().lower()
     password_entry.delete(0, END)
     username_entry.delete(0, END)
     login_checkbox.deselect(True)
+
+    user_check = 'tulio'
+    password_check = '12345'
+
+    if user == '' or password == '':
+        messagebox.showerror(title="Erro", message="Por favor, preencha todos os campos!")
+    else:
+        if user != user_check or password != password_check:
+            messagebox.showerror(title="Erro", message="Usuário ou senha incorreto! Tente de novo.")
+        elif user == user_check and password == password_check:
+            messagebox.showinfo(title="Aviso", message="Teste de Aviso")
+
 
 
 login_frame = ctk.CTkFrame(app, fg_color="#14213d",

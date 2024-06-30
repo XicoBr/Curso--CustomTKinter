@@ -1,0 +1,173 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"4ac85a89-7e0b-4b7e-b144-cbc7d28a29cc\" name=\"Changes\" comment=\"aulas customtkinter\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 0\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2iCpbRgizg39zfzR7NgLkCeDl7J\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Python.aula01.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula02.executor&quot;: &quot;Debug&quot;,\r\n    &quot;Python.aula03.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula04-New_windows.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula04.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula05-Frames.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula05.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula06-Tabview.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula06.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula07-Textbox (1).executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula07-Textbox.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula07.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula08-DialogBox.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula08.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula09.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula10-Label.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula10.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula11-Entry (1).executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula11-Entry.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula11.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula12-Button.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula13-Images.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula14-Slider.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula15-SegmentedButton.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula16-SwitchButton.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula17-Checkbox.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula18-RadioButton.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula19-ProgressBar.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula20-Posicionamento-Place.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula21-Pack.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.aula22-Posicionamento-Grid.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.proj-Numero-par.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.proj-tela_login.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.rascunho.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.rascunho00001.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\" selected=\"Python.rascunho00001\">\r\n    <configuration name=\"aula22-Posicionamento-Grid\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Curso- CustomTKinter\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/aulas\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/aulas/aula22-Posicionamento-Grid.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"proj-Numero-par\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Curso- CustomTKinter\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/aulas\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/aulas/proj-Numero-par.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"proj-tela_login\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Curso- CustomTKinter\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/aulas\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/aulas/proj-tela_login.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"rascunho\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Curso- CustomTKinter\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/aulas\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/aulas/rascunho.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"rascunho00001\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Curso- CustomTKinter\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/aulas\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/aulas/rascunho00001.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.rascunho00001\" />\r\n        <item itemvalue=\"Python.proj-Numero-par\" />\r\n        <item itemvalue=\"Python.rascunho\" />\r\n        <item itemvalue=\"Python.proj-tela_login\" />\r\n        <item itemvalue=\"Python.aula22-Posicionamento-Grid\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-eebebe6c2be4-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15325.20\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"4ac85a89-7e0b-4b7e-b144-cbc7d28a29cc\" name=\"Changes\" comment=\"\" />\r\n      <created>1719004484324</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1719004484324</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"aulas customtkinter\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1719693871942</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1719693871942</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"aulas customtkinter\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"aulas customtkinter\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 5446493d5337681ebd4b7f71a9374db6a5db437f)
++++ b/.idea/workspace.xml	(date 1719694347052)
+@@ -18,6 +18,11 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="master" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="ProjectColorInfo">{
+@@ -31,49 +36,49 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;Python.aula01.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula02.executor&quot;: &quot;Debug&quot;,
+-    &quot;Python.aula03.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula04-New_windows.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula04.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula05-Frames.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula05.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula06-Tabview.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula06.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula07-Textbox (1).executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula07-Textbox.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula07.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula08-DialogBox.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula08.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula09.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula10-Label.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula10.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula11-Entry (1).executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula11-Entry.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula11.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula12-Button.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula13-Images.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula14-Slider.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula15-SegmentedButton.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula16-SwitchButton.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula17-Checkbox.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula18-RadioButton.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula19-ProgressBar.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula20-Posicionamento-Place.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula21-Pack.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.aula22-Posicionamento-Grid.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.proj-Numero-par.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.proj-tela_login.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.rascunho.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.rascunho00001.executor&quot;: &quot;Run&quot;,
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "Python.aula01.executor": "Run",
++    "Python.aula02.executor": "Debug",
++    "Python.aula03.executor": "Run",
++    "Python.aula04-New_windows.executor": "Run",
++    "Python.aula04.executor": "Run",
++    "Python.aula05-Frames.executor": "Run",
++    "Python.aula05.executor": "Run",
++    "Python.aula06-Tabview.executor": "Run",
++    "Python.aula06.executor": "Run",
++    "Python.aula07-Textbox (1).executor": "Run",
++    "Python.aula07-Textbox.executor": "Run",
++    "Python.aula07.executor": "Run",
++    "Python.aula08-DialogBox.executor": "Run",
++    "Python.aula08.executor": "Run",
++    "Python.aula09.executor": "Run",
++    "Python.aula10-Label.executor": "Run",
++    "Python.aula10.executor": "Run",
++    "Python.aula11-Entry (1).executor": "Run",
++    "Python.aula11-Entry.executor": "Run",
++    "Python.aula11.executor": "Run",
++    "Python.aula12-Button.executor": "Run",
++    "Python.aula13-Images.executor": "Run",
++    "Python.aula14-Slider.executor": "Run",
++    "Python.aula15-SegmentedButton.executor": "Run",
++    "Python.aula16-SwitchButton.executor": "Run",
++    "Python.aula17-Checkbox.executor": "Run",
++    "Python.aula18-RadioButton.executor": "Run",
++    "Python.aula19-ProgressBar.executor": "Run",
++    "Python.aula20-Posicionamento-Place.executor": "Run",
++    "Python.aula21-Pack.executor": "Run",
++    "Python.aula22-Posicionamento-Grid.executor": "Run",
++    "Python.proj-Numero-par.executor": "Run",
++    "Python.proj-tela_login.executor": "Run",
++    "Python.rascunho.executor": "Run",
++    "Python.rascunho00001.executor": "Run",
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "git-widget-placeholder": "cursotkinter",
++    "settings.editor.selected.configurable": "editor.preferences.tabs"
+   }
+-}</component>
++}]]></component>
+   <component name="RunManager" selected="Python.rascunho00001">
+     <configuration name="aula22-Posicionamento-Grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="Curso- CustomTKinter" />
+@@ -219,8 +224,57 @@
+       <option name="project" value="LOCAL" />
+       <updated>1719693871942</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="aulas customtkinter">
++      <option name="closed" value="true" />
++      <created>1719694037354</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1719694037354</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="OPEN_GENERIC_TABS">
++      <map>
++        <entry key="f7148e20-fa32-49a1-81af-de166e582cb2" value="TOOL_WINDOW" />
++      </map>
++    </option>
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++        <entry key="f7148e20-fa32-49a1-81af-de166e582cb2">
++          <value>
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="HEAD" />
++                      </list>
++                    </value>
++                  </entry>
++                  <entry key="roots">
++                    <value>
++                      <list>
++                        <option value="$PROJECT_DIR$" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
++            </State>
++          </value>
++        </entry>
++      </map>
++    </option>
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="aulas customtkinter" />
